@@ -5,10 +5,12 @@ Team: Yoshua Meatchem, Reid Sweeney, Rohan Patel, Abhishek Goel
 
 ## Introduction
 ---
-Have you ever wanted to look at exotic cars in your area? Do you know the last time you saw a car and thought “Wow, you do not see that car every day!”. Car-App can help you:
+Have you ever wanted to look at exotic cars in your area? Do you know the last time you saw a car and thought “Wow, you do not see that car every day!”. Car-App can help you:  
+
 •    Upload images of exotic/project cars in your area.
 •    List Details of make, model, and color.
-•    Record the location of the car/car meet. 
+•    Record the location of the car/car meet.   
+
 Use your Android device to help discover the different types of cars in your area. Take photos with the on-device camera and GPS location to locate the car. Create many posts about exotic and project cars and learn more about them.
 
 ## Storyboard

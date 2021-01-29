@@ -48,7 +48,7 @@ Team: Yoshua Meatchem, Reid Sweeney, Rohan Patel, Abhishek Goel
 ---
 
 ## Class DIagram
----
+![ClassDiagram](images/ClassDiagram.png)
 
 ### Class Diagram Description
 ---

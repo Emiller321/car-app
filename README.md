@@ -3,7 +3,8 @@
 Design Document 
 Team: Yoshua Meatchem, Reid Sweeney, Rohan Patel, Abhishek Goel
 
-##Introduction
+## Introduction
+---
 
 ## Scrum Roles
 ---
@@ -11,8 +12,8 @@ Team: Yoshua Meatchem, Reid Sweeney, Rohan Patel, Abhishek Goel
 - Integration Specialists: Reid Sweeney and Yoshua Meatchem 
 - UI Secialists: Rohan Patel and Abhishek Goel
 
-##Weekly Meeting 
-
+## Weekly Meeting 
+---
 Platform we are meeting on is Discord
 
 Monday @2PM

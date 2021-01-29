@@ -9,7 +9,9 @@ Team: Yoshua Meatchem, Reid Sweeney, Rohan Patel, Abhishek Goel
 ## Storyboard
 ---
 
-[Car App Storyboard](https://projects.invisionapp.com/freehand/document/fHbLFga4v)
+[Car App Storyboard](https://projects.invisionapp.com/freehand/document/fHbLFga4v)  
+
+
 ![MyCarAppFirstScreen](CarAppFirstImage.JPG)
 
 ## Functional Requirements

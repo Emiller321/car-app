@@ -104,8 +104,10 @@ Project Cars are featured differently than Exotic/Sports cars
 
 ## Weekly Meeting 
 ---
-Platform we are meeting on is Discord:
--Every Monday @2PM
+Platform we are meeting on is Discord:  
+
+-Every Monday @2PM  
+
 -Every Friday @11AM
 
 Assignments due ususally on Sundays

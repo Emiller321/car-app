@@ -21,76 +21,46 @@ Team: Yoshua Meatchem, Reid Sweeney, Rohan Patel, Abhishek Goel
 ---
 
 #### Scenario
+---
 
-As a user interested in cars, I want to be able to show all the exotic and project cars in my area, with the make, model, and customizations.
-
-#### Dependencies
-
-Car data is available and accessible
+#### Dependencies 
+---
 
 #### Assumptions
-
-Project Cars are featured differently than Exotic/Sports cars
+---
 
 #### Examples
+---
 
-1.1  
+### Requirement 101:
+---
 
-**Given** Car data is available 
+#### Scenario
+---
 
-**When**  I add a car to the map  
+#### Dependencies
+---
 
-**Then** I should receive/fill the subjects below:  
+#### Assumptions
+---
 
-Make: Audi
+#### Examples
+---
 
-Model: 2018 RS7
-
-Color: Black
-
-
-1.2  
-
-**Given** Car data is available
-          GPS data is available
-
-**When**  I add a new car to the map 
-
-**Then** I should receive/fill the subjects below:   
-
-Make: Kia
-
-Model: 2020 Stinger
-
-Color: Orange
-
-**AND** I can upload location of car with minor detail.
-
-1.3  
-
-**Given** The car data is available
-          The device has access to a camera and the camera roll. 
-	        The device has GPS functionality and has access to use both GPS and Current Location. 
-          
-**When** I add a car to the map
-
-**Then** I receive/fill the subjects below:
-
-Make: Nissan
-
-Model: Skyline R34 1998
-
-Color: Blue with White Stripes
-
-**AND** I can upload location of car with minor detail.
-
-**Then** When I navigate to the homescreen/map. I should see the image of a car that was uploaded by user. 
-
-## Class Diagram
+## Class DIagram
 ---
 
 ### Class Diagram Description
 ---
+- MainActivity:  The first screen the user sees.  This will contain a map with cars, and a button to add a car to map.
+- VehicleDetailsActivity:  A screen that shows details of a vehicle.
+- AddVehicleActivity: A screen shown prompting you to enter details about car.
+- RetrofitInstance: Boostrap class required for Retrofit.
+- Car: Noun class that represents a car.
+- Vehicle: Noun class that represents an instance of a car (vehicle).
+- ICarDAO: Interface for Retrofit to find and parse Car JSON.
+- IVehicleDAO: Interface for Room to persist Vehicle data.
+
 
 ## Scrum Roles
 ---

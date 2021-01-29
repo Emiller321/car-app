@@ -6,6 +6,48 @@ Team: Yoshua Meatchem, Reid Sweeney, Rohan Patel, Abhishek Goel
 ## Introduction
 ---
 
+## Storyboard
+---
+
+## Functional Requirements
+---
+
+### Requirement 100.0: 
+---
+
+#### Scenario
+---
+
+#### Dependencies 
+---
+
+#### Assumptions
+---
+
+#### Examples
+---
+
+### Requirement 101:
+---
+
+#### Scenario
+---
+
+#### Dependencies
+---
+
+#### Assumptions
+---
+
+#### Examples
+---
+
+## Class DIagram
+---
+
+### Class Diagram Description
+---
+
 ## Scrum Roles
 ---
 - DevOps: Eric Miller

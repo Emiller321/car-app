@@ -1,7 +1,7 @@
 # car-app
 ---
 Design Document 
-Team: Yoshua Meatchem, Reid Sweeney, Rohan Patel, Abhishek Goel
+Team: Yoshua Meatchem, Reid Sweeney, Rohan Patel, Abhishek Goel, Eric Miller
 
 ## Introduction
 ---

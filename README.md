@@ -82,7 +82,7 @@ Project Cars are featured differently than Exotic/Sports cars
 **Then** When I navigate to the homescreen/map. I should see the image of a car that was uploaded by user. 
 
 ## Class Diagram
-![ClassDiagram](images/ClassDiagram.png)
+![ClassDiagram](images/UpdatedClassDiagram.png)
 
 ### Class Diagram Description
 ---

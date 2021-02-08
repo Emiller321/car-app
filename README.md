@@ -87,7 +87,7 @@ Project Cars are featured differently than Exotic/Sports cars
 ### Class Diagram Description
 ---
 - MainActivity:  The first screen the user sees.  This will contain a map with cars, and a button to add a car to map.
-- CreateOrEditVehicleDetails: Page where you can create a non-existing vehicle, or edit an existing vehicle.
+- CreateOrEditVehicleDetails: Page where you can create a non-existing vehicle, or edit an existing vehicle..
 - RetrofitInstance: Boostrap class required for Retrofit.
 - Car: Noun class that represents a car.
 - Vehicle: Noun class that represents an instance of a car (vehicle).

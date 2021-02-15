@@ -21,7 +21,7 @@ Use your Android device to help discover the different types of cars in your are
 [Car App Storyboard](https://projects.invisionapp.com/prototype/StoryBoardMap-ckkyozx9p00b5x201eu8yehhq/play/615dd6be)  
 
 
-![MyCarAppFirstScreen](CarAppFirstImage.JPG)
+![MyCarAppFirstScreen](CarAppStoryboard.JPG)
 
 ## Functional Requirements
 ---

@@ -103,7 +103,7 @@ Project Cars are featured differently than Exotic/Sports cars
 
 ## Weekly Meeting 
 ---
-Platform we are meeting on is Discord:  
+Platform we are meeting on is Microsoft Teams:  
 
 -Every Monday @2PM  
 

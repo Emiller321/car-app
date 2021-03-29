@@ -6,10 +6,9 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 interface ICarDAO {
+     @GET("https://raw.githubusercontent.com/matthlavacka/car-list/master/car-list.json")
+     fun getAllCars() : Call<ArrayList<Car>>
 
     @GET("https://raw.githubusercontent.com/matthlavacka/car-list/master/car-list.json")
-    fun getAllCars(): Call<ArrayList<Car>>
-
-    @GET("https://raw.githubusercontent.com/matthlavacka/car-list/master/car-list.json")
-    fun getCars(@Query("Combined_Name") brand:String): Call<ArrayList<Car>>
+    fun getCar(@Query("Combined_Name")name:String) : Call<ArrayList<Car>>
 }
